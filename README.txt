@@ -1,0 +1,2 @@
+this is a project where i created a movie app where i presented my fav movies n shows and i used react hooks and as u can see i made a folder components where i placed all my comp
+and i made it so u can filter movies with title and rating and u can add movies.
